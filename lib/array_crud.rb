@@ -6,9 +6,7 @@ def create_an_array
   ["spaghetti", "burgers", "fries", "salsa"]
 end
 
-def add_element_to_end_of_array(array, elemtent)
- add_element_to_end_of_array = ["food", "sleep"]
- add_element_to_end_of_array.push
+def add_element_to_end_of_array(array, element)
   
 end
 
